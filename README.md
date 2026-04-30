@@ -1,7 +1,7 @@
 ### Hi!👋 I'm Yunhao Zhou 
 
-- 💻 Software Engineer II @ Cadence Design Systems
-- ⚙️ LLM, Agentic AI, EDA
+- 💻 Multimodal Large Model Algorithm Engineer @ Foundation Models & Applications Group, Kuaishou Technology
+- ⚙️ LLM, Multimodal Understanding and Representation, Deep Learning
 - 🎓 Education: Shanghai Jiao Tong University
 - 📫 Email: yunhaoz.cs@gmail.com, yunhaoz@qq.com
 - 🌐 Web page: https://yyh-sjtu.github.io
