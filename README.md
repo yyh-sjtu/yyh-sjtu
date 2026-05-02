@@ -1,6 +1,6 @@
 ### Hi!👋 I'm Yunhao Zhou 
 
-- 💻 Multimodal Large Model Algorithm Engineer @ Foundation Models & Applications Group, Kuaishou Technology
+- 💻 Multimodal Large Language Model Algorithm Engineer @ Foundation Models & Applications Group, Kuaishou Technology
 - ⚙️ LLM, Multimodal Understanding and Representation, Deep Learning
 - 🎓 Education: Shanghai Jiao Tong University
 - 📫 Email: yunhaoz.cs@gmail.com, yunhaoz@qq.com
